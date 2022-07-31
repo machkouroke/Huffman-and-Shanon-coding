@@ -1,5 +1,4 @@
 Huffman and Shanon coding
-
 ============
 
 ![image](https://user-images.githubusercontent.com/40785379/182032890-10df8722-88a4-4246-854f-ac55ea9771d0.png)
